@@ -1,0 +1,6 @@
+5
+Blackpool                 83    62     5     0     3     1     1     0
+Wigan_Athletic            77    69     8     3     0     0     0     0
+Sunderland                76    70    20     1     0     0    19     0
+Southampton               78    68    20     1     0    19     0     0
+Manchester_United          0  1000     0     0     0     0     0     0

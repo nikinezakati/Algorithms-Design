@@ -1,0 +1,6 @@
+5
+Sunderland              75  59  28   0   4  10   9   5
+Wigan_Athletic          71  63  28   4   0   5  11   8
+Blackpool               69  66  27  10   5   0   2  10
+Southampton             63  72  27   9  11   2   0   5
+Manchester_United       49  86  28   5   8  10   5   0

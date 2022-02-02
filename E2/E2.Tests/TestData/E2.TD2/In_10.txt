@@ -1,0 +1,5 @@
+4
+Coventry_City           83  71   8   0   1   1   6
+Blackburn_Rovers        80  79   3   1   0   2   0
+Everton                 77  82   3   1   2   0   0
+Manchester_United       78  78   6   6   0   0   0

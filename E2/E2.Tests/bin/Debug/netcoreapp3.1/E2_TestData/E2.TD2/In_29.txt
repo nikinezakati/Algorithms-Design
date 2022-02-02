@@ -1,0 +1,13 @@
+12
+Birmingham_City         6  1  4  0  1  1  0  1  0  0  0  0  0  1  0
+Brentford               5  1  5  1  0  0  1  0  1  1  0  1  0  0  0
+Bolton_Wanderers        5  1  5  1  0  0  1  0  1  0  0  1  0  0  1
+Bradford_City           5  2  4  0  1  1  0  1  0  0  0  0  1  0  0
+Arsenal                 4  2  5  1  0  0  1  0  0  1  0  1  0  0  1
+Blackpool               4  2  5  0  1  1  0  0  0  0  1  0  1  1  0
+Aston_Villa             3  3  5  0  1  0  0  1  0  0  1  0  1  1  0
+Blackburn_Rovers        3  4  4  0  0  0  0  0  1  1  0  1  0  0  1
+Burnley                 2  5  4  0  1  1  0  1  0  0  1  0  0  0  0
+Barnsley                0  7  4  0  0  0  1  0  1  1  0  0  0  0  1
+Brighton_&_Hove_Albion  1  6  4  1  0  0  0  0  1  1  0  0  0  0  1
+Manchester_United       1  5  5  0  0  1  0  1  0  0  1  0  1  1  0

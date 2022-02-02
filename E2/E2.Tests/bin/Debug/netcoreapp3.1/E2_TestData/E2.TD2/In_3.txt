@@ -1,0 +1,5 @@
+4
+Everton                 3  3  3  0  1  2  0
+Charlton_Athletic       2  5  2  1  0  1  0
+Arsenal                 4  2  3  2  1  0  0
+Manchester_United       3  6  0  0  0  0  0

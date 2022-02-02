@@ -1,0 +1,8 @@
+7
+Portsmouth             14  5  9  0  1  2  3  1  2  0
+Nottingham_Forest      12  3  7  1  0  2  1  2  1  0
+Southport              16  2  7  2  2  0  1  1  1  0
+Leicester_City         13  3  5  3  1  1  0  0  0  0
+Middlesbrough          11  3  5  1  2  1  0  0  1  0
+Tottenham_Hotspur      12  4  7  2  1  1  0  1  0  2
+Manchester_United      13  2  2  0  0  0  0  0  2  0

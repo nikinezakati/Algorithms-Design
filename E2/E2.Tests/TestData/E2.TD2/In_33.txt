@@ -1,0 +1,13 @@
+12
+Arsenal                 47  52   0   0   0   0   0   0   0   0   0   0   0   0   0
+Bolton_Wanderers        49  50   0   0   0   0   0   0   0   0   0   0   0   0   0
+Bradford_City           51  48   0   0   0   0   0   0   0   0   0   0   0   0   0
+Barnsley                46  53   0   0   0   0   0   0   0   0   0   0   0   0   0
+Burnley                 55  44   0   0   0   0   0   0   0   0   0   0   0   0   0
+Blackpool               46  53   0   0   0   0   0   0   0   0   0   0   0   0   0
+Blackburn_Rovers        46  53   0   0   0   0   0   0   0   0   0   0   0   0   0
+Brentford               54  45   0   0   0   0   0   0   0   0   0   0   0   0   0
+Aston_Villa             45  54   0   0   0   0   0   0   0   0   0   0   0   0   0
+Brighton_&_Hove_Albion  49  50   0   0   0   0   0   0   0   0   0   0   0   0   0
+Birmingham_City         51  48   0   0   0   0   0   0   0   0   0   0   0   0   0
+Manchester_United       55  44   0   0   0   0   0   0   0   0   0   0   0   0   0

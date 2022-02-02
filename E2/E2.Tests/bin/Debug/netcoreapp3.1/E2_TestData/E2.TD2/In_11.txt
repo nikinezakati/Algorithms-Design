@@ -1,0 +1,6 @@
+5
+Stoke_City              75  59  28   0   3   8   7   3
+Arsenal                 71  63  28   3   0   2   7   4
+Everton                 69  66  27   8   2   0   0   0
+Charlton_Athletic       63  72  27   7   7   0   0   0
+Manchester_United       49  86  27   3   4   0   0   0

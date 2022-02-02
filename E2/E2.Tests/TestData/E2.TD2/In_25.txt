@@ -1,0 +1,9 @@
+8
+Southport               44  51   9   0   0   0   0   0   0   0   9
+Middlesbrough           44  51   9   0   0   0   0   0   0   0   9
+Newcastle_United        44  51   9   0   0   0   0   0   0   0   9
+Portsmouth              44  51   9   0   0   0   0   0   0   0   9
+Leicester_City          44  51   9   0   0   0   0   0   0   0   9
+Tottenham_Hotspur       43  60   1   0   0   0   0   0   0   1   0
+Nottingham_Forest       43  60   1   0   0   0   0   0   1   0   0
+Manchester_United        0  59  45   9   9   9   9   9   0   0   0
